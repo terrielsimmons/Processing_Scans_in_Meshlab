@@ -1,7 +1,7 @@
 # Processing Scans in Open-Source Software 
 **by Terrie Simmons-Ehrhardt**
 
-This tutorial describes options for processing 3D scans into meshes using Meshlab. There is a [set of videos](https://www.youtube.com/playlist?list=PL53FAE3EB5734126E) on YouTube demonstrating the 3D Scanning Pipeline in Meshlab. While I specifically discuss NextEngine scans in this tutorial, you can process scans from any scanner in Meshlab as long as you can export one of the common 3D file formats such as `PLY`.
+This tutorial describes options for processing 3D scans into meshes using [Meshlab](https://www.meshlab.net/). There is a [set of videos](https://www.youtube.com/playlist?list=PL53FAE3EB5734126E) on YouTube demonstrating the 3D Scanning Pipeline in Meshlab. While I specifically discuss NextEngine scans in this tutorial, you can process scans from any scanner in Meshlab as long as you can export one of the common 3D file formats such as `PLY`.
 
 ## Why use Meshlab? 
 - It's faster at calculating your mesh and blending the colors (if needed).
